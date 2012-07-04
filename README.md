@@ -1,4 +1,8 @@
-acs_ios_push
-============
+Appcelerator Cloud iOS Push Notification
+========================================
 
-Appcelerator Titanium iOS Push Notification using Cloud Service
+Appcelerator Titanium iOS Push Notification using Cloud Service. Follow below tutorial for 
+Push Notification Implementation
+
+http://www.titaniumtutorial.com/2012/07/appcelerator-cloud-push-notification-in.html
+
